@@ -1,0 +1,161 @@
+.container-fluid {
+    /* background-color: #530763 !important; */
+    height: 100vh;
+
+    /* background: #5C258D;  
+background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  
+background: linear-gradient(to right, #4389A2, #5C258D);  */
+
+/* background: #614385;  
+background: -webkit-linear-gradient(to right, #516395, #614385);  
+background: linear-gradient(to right, #516395, #614385);  */
+
+/* background: #AA076B; 
+background: -webkit-linear-gradient(to right, #61045F, #AA076B); 
+background: linear-gradient(to right, #61045F, #AA076B);  */
+
+/* background: #E55D87;  
+background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);  
+background: linear-gradient(to right, #5FC3E4, #E55D87);  */
+
+
+background: #8E2DE2;  
+background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  
+background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+
+
+
+}
+
+.wallet-container {
+
+    opacity: 0.8;
+     /* background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(); */
+
+     /* background: #20002c;  
+     background: linear-gradient(to right, #cbb4d4, #20002c); */
+
+
+
+     background: #000428; 
+     background: linear-gradient(to right, #004e92, #010a58);  
+
+     /* background: #000000;  
+     background: -webkit-linear-gradient(to right, #434343, #000000);  */
+
+
+     /* background: #ff0084;  
+     background: -webkit-linear-gradient(to right, #33001b, #ff0084);   */
+
+     /* background: #ff6600; 
+     background: -webkit-linear-gradient(to right, #f83600, #fe8c00);   */
+
+
+     
+
+
+
+
+
+
+
+     width: 320px;
+     color: floralwhite;
+     font-size: 15px;
+     padding: 20px 20px 0;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     position: absolute;
+    
+} 
+
+.page-title{
+     text-align: left;
+}
+
+.fa-user {
+    float: right;
+}
+
+.fa-align-left {
+    margin-right: 15px;
+}
+
+.amount-box img {
+    width: 30px;
+}
+
+.amount {
+    font-size: 35px;
+}
+
+.amount-box p {
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.btn-group {
+    margin: 20px 0;
+}
+
+.btn-group .btn {
+    margin: 8px;
+    border-radius: 20px !important;
+    font-size: 12px;
+}
+
+.txn-history {
+    text-align: left;
+}
+
+.txn-list {
+    background-color: floralwhite;
+    padding: 12px 10px;
+    color: #777;
+    font-size: 14px;
+    margin: 7px 0;
+}
+
+.debit-amount {
+    color: red;
+    float: right;
+
+}
+
+.credit-amount {
+    color: green;
+    float: right;
+
+}
+
+.footer-menu {
+    margin: 20px -20px 0;
+    bottom: 0;
+    border-top: 1px solid #ccc;
+    padding: 10px 10px 0;
+}
+
+.footer-menu p {
+    font-size: 12px;
+}
+
+
+@media screen and (max-width: 767px) {
+
+    
+    
+
+
+   
+
+    div.col-md-3 {
+        margin: auto;
+        width: 20%;
+        padding: 10px;
+    }
+ 
+        
+  
+
+}
